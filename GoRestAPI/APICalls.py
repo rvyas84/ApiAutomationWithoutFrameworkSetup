@@ -7,7 +7,7 @@ import string
 base_url = "https://gorest.co.in"
 
 #authorization
-auth_token = "Bearer 4d10ef7527d6f8e3f5a961df8d074dc2df34d6de7f36edff5efb026b65ec26c6"
+auth_token = "Bearer <token>"
 
 #generate Random Email
 def generate_random_email():
